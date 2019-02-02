@@ -10,6 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            a = x
+            b = y
+            c = DivideByZeroException
+
+        debugg
+
         }
     }
 }
